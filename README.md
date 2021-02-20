@@ -1,2 +1,2 @@
-# del-cias-da-vov-
+Delícias da Vovó
 Projeto pessoal para divulgação
